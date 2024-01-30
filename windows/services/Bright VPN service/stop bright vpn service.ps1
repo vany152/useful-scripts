@@ -1,0 +1,2 @@
+stop-service luminati_net_updater_win_brightvpn_com
+set-service luminati_net_updater_win_brightvpn_com -startuptype disabled -passthru
